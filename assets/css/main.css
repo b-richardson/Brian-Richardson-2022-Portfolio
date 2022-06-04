@@ -2662,7 +2662,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 8.25em;
+			width: 11.25em;
 			
 		}
 
@@ -3020,7 +3020,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 3em 3em 3em 3em;
 				width: 30%;
 			}
 
